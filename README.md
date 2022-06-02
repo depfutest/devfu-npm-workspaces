@@ -1,1 +1,1 @@
-# devfu-yarn-workspaces
+# devfu-npm-workspaces
